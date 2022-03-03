@@ -30,4 +30,7 @@ https://github.com/adafruit/Adafruit_Adalink#running-without-installation
 ### Instructions
 
 * [x] Install J-Link tools https://github.com/adafruit/Adafruit_Adalink#install-j-link-tools
+* [x] Install click module - https://click.palletsprojects.com/en/5.x/
+* [x] Clone Adafruit_Adalink - https://github.com/adafruit/Adafruit_Adalink
+  + `python3 -m adalink.main --help`
 * [ ] 
