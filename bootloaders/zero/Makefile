@@ -33,7 +33,8 @@ else
   UNAME_S := $(shell uname -s)
 
   ifeq ($(UNAME_S),Linux)
-    MODULE_PATH?=$(HOME)/.arduino15/packages/arduino
+    MODULE_PATH?=$(HOME)/snap/arduino/61/.arduino15/packages/arduino
+    # MODULE_PATH?=$(HOME)/.arduino15/packages/arduino
     RM=rm
     SEP=/
   endif
