@@ -17,3 +17,17 @@ VID: 2341
 PID: 804f
 SN: 8B14FF1E50553133352E3120FF062627
 
+---
+
+## Upload bootloader
+
+https://forum.arduino.cc/t/uploading-bootloader-to-self-made-mkr-zero-board/699767/2
+
+Using J-Link EDU Mini
+
+https://github.com/adafruit/Adafruit_Adalink#running-without-installation
+
+### Instructions
+
+* [x] Install J-Link tools https://github.com/adafruit/Adafruit_Adalink#install-j-link-tools
+* [ ] 
